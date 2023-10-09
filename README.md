@@ -8,13 +8,13 @@ Sound of Text Anime memiliki dua jenis utama:
 
 1. **Sound of Text Anime dengan Suara Manusia**: Jenis ini menggunakan suara manusia untuk menghasilkan suara anime. Suara manusia ini dapat berasal dari berbagai sumber, termasuk aktor suara profesional, pengisi suara amatir, atau bahkan suara Anda sendiri.
 
-2. **Sound of Text Anime dengan Suara Mesin**: Jenis ini menggunakan suara mesin, biasanya dihasilkan oleh algoritma text-to-speech, untuk menghasilkan suara anime.
+2. **Sound of Text Anime dengan Suara Mesin**: Jenis ini menggunakan suara mesin, biasanya dihasilkan oleh algoritma text-to-speech, untuk menghasilkan suara anime tokoh kartun seperti Doraemon dan [Naruto](https://www.apec2013.or.id/cara-sound-of-text-anime-naruto/).
 
 ## Situs-situs untuk Membuat Sound of Text Anime
 
 Sejumlah situs web menyediakan fasilitas untuk membuat Sound of Text Anime:
 
-1. **Sound of Text**: Situs ini menggunakan suara mesin dengan berbagai pilihan suara, termasuk suara laki-laki, perempuan, dan anak-anak.
+1. **Sound of Text**: Situs ini menggunakan suara mesin dengan berbagai pilihan suara, termasuk suara laki-laki, perempuan, dan anak-anak hingga karakter anime dari Jepang.
 
 2. **FakeYou**: Situs ini menggunakan suara manusia, dengan opsi suara dari aktor suara profesional hingga pengisi suara amatir. Untuk lebih jelasnya bisa dibaca di artikel [sound of text anime](https://www.sebuahutas.com/sound-of-text-anime-dari-situs-fakeyou-begini-cara-buatnya/) dari situs FakeYou.
 
